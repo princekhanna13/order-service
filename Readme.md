@@ -14,7 +14,7 @@ This app is for order service.
 ### Project Set up
 
 ```bash
-cd entitlement-service
+cd order-service
 touch .env ## Needed in case of local env is different from config/app.env
 go run cmd/server/main.go
 ```
